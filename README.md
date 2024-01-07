@@ -16,4 +16,4 @@ Bienvenue dans le projet de système de fichiers en Python ! Ce projet vise à f
 - **Tout le code du file system dans le script python  **script.py**
 - **il suffit d'éxecuter le script dans le terminal et vous avez accès au file system 
 - **Taper **"HELP"** pour prendre connaissance des commandes du file system 
-- **Pour plus d'informations sur les fonctionnalitées visiter le fichier 'FD-DISTRO[1].DOCX'
+- **Pour plus d'informations sur les fonctionnalitées visiter le fichier **'FD-DISTRO[1].DOCX'**
